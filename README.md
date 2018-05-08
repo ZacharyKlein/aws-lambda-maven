@@ -1,4 +1,6 @@
-AWS Credentials must be placed in a `settings.xml` file under the `./m2` directory. 
+AWS Credentials must be placed in a `settings.xml` file under the `./m2` directory.
+
+https://github.com/davidmoten/aws-maven-plugin 
 
 `/m2.settings.xml`
 
